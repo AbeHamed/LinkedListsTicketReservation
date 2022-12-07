@@ -14,7 +14,7 @@ AAC.SS.ACCC..AACCSS.
 A- Adult already reserved  
 C- Child already reserved  
 S- Senior already reserved  
-.- OPEN SEAT  
+. - OPEN SEAT  
 
 Be sure to place the file in the same location as the source code.
 
