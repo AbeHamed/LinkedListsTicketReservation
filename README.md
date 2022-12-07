@@ -1,6 +1,6 @@
 # LinkedListsTicketReservation
 A program with a robust "doubly + down" 2D Linked-list searching algorithm that will find a seating selection closest to the midpoint of a 2D grid.
-By using a linkedlist, we eliminate redundant movement of nodes inherent to an ArrayList, and inserting or deleting nodes becomes fast and efficient.
+By using a Linked-List, we eliminate redundant movement of nodes inherent to an ArrayList, and inserting or deleting nodes becomes fast and efficient.
 
 To test this program, create a text file like something of the following format:
 
