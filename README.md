@@ -11,10 +11,10 @@ AAC.SS.ACCC..AACCSS.
 .AA.SS.CC....S.A.SSA 
 ```
 
-A- Adult already reserved
-C- Child already reserved
-S- Senior already reserved
-.- OPEN SEAT
+A- Adult already reserved  
+C- Child already reserved  
+S- Senior already reserved  
+.- OPEN SEAT  
 
 Be sure to place the file in the same location as the source code.
 
